@@ -6,9 +6,34 @@
 
 ## Contents
 
+- [Developer experience first](#Developer experience first)
 - [Installation](#installation)
 - [Development](#development)
 - [Deployment](#deployment)
+
+## Developer experience first:
+
+- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
+- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
+- 💅 [PostCSS](https://postcss.org) for processing [Tailwind CSS](https://tailwindcss.com)
+- ✏️ Linter with [ESLint](https://eslint.org)
+- 🛠 Code Formatter with [Prettier](https://prettier.io)
+
+## Built-in feature from Next.js:
+
+- ☕ Minify HTML & CSS
+- 💨 Live reload
+- ✅ Cache busting
+
+### Philosophy
+
+- Minimal code
+- SEO-friendly
+- 🚀 Production-ready
+
+### Requirements
+
+- Node.js and yarn
 
 ### Installation
 
@@ -65,6 +90,8 @@ or
 npm run build
 ```
 
+The generated HTML and CSS files are minified (built-in feature from Next js). It will also removed unused CSS from [Tailwind CSS](https://tailwindcss.com).
+
 ### Deployment
 
 ### ▲ Deploy on Vercel
@@ -84,6 +111,8 @@ Click this button and it will help you create a new repo, create a new Netlify p
 ### Contribution
 
 I'm open to contributions & suggestions in making this a lot better :hand:
+
+Made with ♥ by [Aimade Anouar](https://www.aimdexter.com/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/AnouarAimade)
 
 ### License
 
