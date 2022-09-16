@@ -1,0 +1,26 @@
+language: node_js
+
+os:
+  - linux
+
+dist:
+  - trusty
+
+node_js:
+  - '14'
+  - '16'
+  - '18'
+
+install:
+  - yarn install
+
+branches:
+  only:
+    - main
+
+script:
+  - yarn build
+
+cache:
+  directories:
+    - node_modules
