@@ -1,7 +1,7 @@
 <p align="center">
 <img src="logo.png" alt="logo"/>
-<p align="center"><a href="https://travis-ci.org/ooade/NextSimpleStarter"><img src="https://travis-ci.org/ooade/NextSimpleStarter.svg?branch=master" alt="travis-ci"/></a> <a href="https://codeclimate.com/github/ooade/NextSimpleStarter/badges"><img src="https://codeclimate.com/github/ooade/NextSimpleStarter/badges/gpa.svg" alt="codeclimate-gpa-badge"/></a> <a href="https://codeclimate.com/github/ooade/NextSimpleStarter"><img src="https://codeclimate.com/github/ooade/NextSimpleStarter/badges/issue_count.svg" alt="codeclimate-issues-badge"/></a><br/>
-<h3 align="center">Simple NextJS boilerplate.</h3></p>
+<p align="center"><a href="https://codeclimate.com/github/aimdexter/Nextjs_starter/maintainability"><img src="https://api.codeclimate.com/v1/badges/9410b1bff8f7f75f418c/maintainability" /></a><br/>
+<h3 align="center">NextJS boilerplate.</h3></p>
 </p>
 
 ## Contents
