@@ -7,7 +7,7 @@
 ## Contents
 
 - [Developer experience first](#Developer-experience-first)
-- [Features](#Built-in-feature-from-Next.js:)
+- [Features](#Built-in-feature-from-Next.js)
 - [Philosophy](#Philosophy)
 - [Requirements](#Requirements)
 - [Installation](#installation)
