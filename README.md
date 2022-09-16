@@ -1,7 +1,7 @@
 <p align="center">
 <img src="logo.png" alt="logo"/>
 <p align="center"><a href="https://codeclimate.com/github/aimdexter/Nextjs_starter/maintainability"><img src="https://api.codeclimate.com/v1/badges/9410b1bff8f7f75f418c/maintainability" /></a><br/>
-<h3 align="center">NextJS boilerplate.</h3></p>
+<h3 align="center">NextJS Minimal Starter</h3></p>
 </p>
 
 ## Contents
