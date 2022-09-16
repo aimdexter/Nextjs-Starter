@@ -6,12 +6,15 @@
 
 ## Contents
 
-- [Developer experience first](#Developer experience first)
+- [Developer experience first](#Developer-experience-first)
+- [Features](#Built-in-feature-from-Next.js:)
+- [Philosophy](#Philosophy)
+- [Requirements](#Requirements)
 - [Installation](#installation)
 - [Development](#development)
 - [Deployment](#deployment)
 
-## Developer experience first:
+### Developer experience first:
 
 - 🔥 [Next.js](https://nextjs.org) for Static Site Generator
 - 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
@@ -19,7 +22,7 @@
 - ✏️ Linter with [ESLint](https://eslint.org)
 - 🛠 Code Formatter with [Prettier](https://prettier.io)
 
-## Built-in feature from Next.js:
+### Built-in feature from Next.js:
 
 - ☕ Minify HTML & CSS
 - 💨 Live reload
@@ -112,7 +115,7 @@ Click this button and it will help you create a new repo, create a new Netlify p
 
 I'm open to contributions & suggestions in making this a lot better :hand:
 
-Made with ♥ by [Aimade Anouar](https://www.aimdexter.com/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/AnouarAimade)
+Made with ♥ by [Aimade Anouar](https://www.aimdexter.com/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40AimadeAnouar)](https://twitter.com/AnouarAimade)
 
 ### License
 
