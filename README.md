@@ -21,6 +21,10 @@
 - 💅 [PostCSS](https://postcss.org) for processing [Tailwind CSS](https://tailwindcss.com)
 - ✏️ Linter with [ESLint](https://eslint.org)
 - 🛠 Code Formatter with [Prettier](https://prettier.io)
+- 🧪 [Husky](https://storybook.js.org/) You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks.
+- 🧠 [Commitlint](https://commitlint.js.org/) helps your team adhere to a commit convention
+- 📕 [Storybook](https://storybook.js.org/) for building UI components and pages in isolation.
+- 🆚 [.vscode/settings.json](https://code.visualstudio.com/) specific settings that only apply to this project and Debugging support
 
 ### Built-in feature from Next.js:
 
