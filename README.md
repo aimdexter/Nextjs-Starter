@@ -56,6 +56,11 @@ Make it your own:
 ```sh
 rm -rf .git && git init && yarn init
 ```
+Make it your own (windows users):
+
+```sh
+rmdir .git
+```
 
 > :information_source: This re-initializes the repo and sets up your project.
 
